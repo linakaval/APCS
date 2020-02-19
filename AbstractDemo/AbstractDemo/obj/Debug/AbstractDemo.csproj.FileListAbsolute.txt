@@ -1,0 +1,6 @@
+M:\CS3\AbstractDemo\AbstractDemo\bin\Debug\AbstractDemo.exe.config
+M:\CS3\AbstractDemo\AbstractDemo\bin\Debug\AbstractDemo.exe
+M:\CS3\AbstractDemo\AbstractDemo\bin\Debug\AbstractDemo.pdb
+M:\CS3\AbstractDemo\AbstractDemo\obj\Debug\AbstractDemo.csprojResolveAssemblyReference.cache
+M:\CS3\AbstractDemo\AbstractDemo\obj\Debug\AbstractDemo.exe
+M:\CS3\AbstractDemo\AbstractDemo\obj\Debug\AbstractDemo.pdb

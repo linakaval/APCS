@@ -1,0 +1,6 @@
+M:\CS3\Fibs\Fibs\bin\Debug\Fibs.exe.config
+M:\CS3\Fibs\Fibs\bin\Debug\Fibs.exe
+M:\CS3\Fibs\Fibs\bin\Debug\Fibs.pdb
+M:\CS3\Fibs\Fibs\obj\Debug\Fibs.csprojResolveAssemblyReference.cache
+M:\CS3\Fibs\Fibs\obj\Debug\Fibs.exe
+M:\CS3\Fibs\Fibs\obj\Debug\Fibs.pdb

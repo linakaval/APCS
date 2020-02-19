@@ -1,0 +1,29 @@
+C:\School\Materials 10-11\apcs\Projects\SortingStuff\SortingStuff\obj\x86\Release\ResolveAssemblyReference.cache
+C:\School\Materials 10-11\apcs\Projects\SortingStuff\SortingStuff\obj\x86\Release\SortingStuff.Form1.resources
+C:\School\Materials 10-11\apcs\Projects\SortingStuff\SortingStuff\obj\x86\Release\SortingStuff.Properties.Resources.resources
+C:\School\Materials 10-11\apcs\Projects\SortingStuff\SortingStuff\obj\x86\Release\SortingStuff.Results.resources
+C:\School\Materials 10-11\apcs\Projects\SortingStuff\SortingStuff\obj\x86\Release\GenerateResource.read.1.tlog
+C:\School\Materials 10-11\apcs\Projects\SortingStuff\SortingStuff\obj\x86\Release\GenerateResource.write.1.tlog
+C:\School\Materials 10-11\apcs\Projects\SortingStuff\SortingStuff\bin\Release\SortingStuff.exe
+C:\School\Materials 10-11\apcs\Projects\SortingStuff\SortingStuff\bin\Release\SortingStuff.pdb
+C:\School\Materials 10-11\apcs\Projects\SortingStuff\SortingStuff\obj\x86\Release\SortingStuff.exe
+C:\School\Materials 10-11\apcs\Projects\SortingStuff\SortingStuff\obj\x86\Release\SortingStuff.pdb
+C:\School\Materials 10-11\apcs\Projects\12 SortingStuff\SortingStuff\obj\x86\Release\SortingStuff.exe
+C:\School\Materials 10-11\apcs\Projects\12 SortingStuff\SortingStuff\obj\x86\Release\SortingStuff.pdb
+C:\temp\SortingStuff\SortingStuff\obj\x86\Release\SortingStuff.exe
+C:\temp\SortingStuff\SortingStuff\obj\x86\Release\SortingStuff.pdb
+Z:\Resources\East Resources\APCS\SortingStuff\SortingStuff\obj\x86\Release\SortingStuff.exe
+Z:\Resources\East Resources\APCS\SortingStuff\SortingStuff\obj\x86\Release\SortingStuff.pdb
+H:\Resources\East Resources\APCS\SortingStuff\SortingStuff\obj\x86\Release\SortingStuff.exe
+H:\Resources\East Resources\APCS\SortingStuff\SortingStuff\obj\x86\Release\SortingStuff.pdb
+E:\Resources\East Resources\APCS\SortingStuff\SortingStuff\obj\x86\Release\SortingStuff.exe
+E:\Resources\East Resources\APCS\SortingStuff\SortingStuff\obj\x86\Release\SortingStuff.pdb
+M:\CS3\SortingStuff\SortingStuff\obj\x86\Release\SortingStuff.csprojResolveAssemblyReference.cache
+M:\CS3\SortingStuff\SortingStuff\obj\x86\Release\SortingStuff.Form1.resources
+M:\CS3\SortingStuff\SortingStuff\obj\x86\Release\SortingStuff.Properties.Resources.resources
+M:\CS3\SortingStuff\SortingStuff\obj\x86\Release\SortingStuff.Results.resources
+M:\CS3\SortingStuff\SortingStuff\obj\x86\Release\SortingStuff.csproj.GenerateResource.Cache
+M:\CS3\SortingStuff\SortingStuff\obj\x86\Release\SortingStuff.exe
+M:\CS3\SortingStuff\SortingStuff\obj\x86\Release\SortingStuff.pdb
+M:\CS3\SortingStuff\SortingStuff\bin\Release\SortingStuff.exe
+M:\CS3\SortingStuff\SortingStuff\bin\Release\SortingStuff.pdb

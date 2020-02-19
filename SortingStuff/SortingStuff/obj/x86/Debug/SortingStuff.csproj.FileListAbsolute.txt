@@ -1,0 +1,10 @@
+C:\School\Materials 10-11\apcs\Projects\SortingStuff\SortingStuff\bin\Debug\SortingStuff.exe
+C:\School\Materials 10-11\apcs\Projects\SortingStuff\SortingStuff\bin\Debug\SortingStuff.pdb
+C:\School\Materials 10-11\apcs\Projects\SortingStuff\SortingStuff\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\School\Materials 10-11\apcs\Projects\SortingStuff\SortingStuff\obj\x86\Debug\SortingStuff.Form1.resources
+C:\School\Materials 10-11\apcs\Projects\SortingStuff\SortingStuff\obj\x86\Debug\SortingStuff.Properties.Resources.resources
+C:\School\Materials 10-11\apcs\Projects\SortingStuff\SortingStuff\obj\x86\Debug\SortingStuff.Results.resources
+C:\School\Materials 10-11\apcs\Projects\SortingStuff\SortingStuff\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\School\Materials 10-11\apcs\Projects\SortingStuff\SortingStuff\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\School\Materials 10-11\apcs\Projects\SortingStuff\SortingStuff\obj\x86\Debug\SortingStuff.exe
+C:\School\Materials 10-11\apcs\Projects\SortingStuff\SortingStuff\obj\x86\Debug\SortingStuff.pdb

@@ -1,0 +1,9 @@
+M:\CS3\SmoothSound\SmoothSound\obj\Debug\SmoothSound.csprojResolveAssemblyReference.cache
+M:\CS3\SmoothSound\SmoothSound\obj\Debug\SmoothSound.Form1.resources
+M:\CS3\SmoothSound\SmoothSound\obj\Debug\SmoothSound.Properties.Resources.resources
+M:\CS3\SmoothSound\SmoothSound\obj\Debug\SmoothSound.csproj.GenerateResource.Cache
+M:\CS3\SmoothSound\SmoothSound\bin\Debug\SmoothSound.exe.config
+M:\CS3\SmoothSound\SmoothSound\bin\Debug\SmoothSound.exe
+M:\CS3\SmoothSound\SmoothSound\bin\Debug\SmoothSound.pdb
+M:\CS3\SmoothSound\SmoothSound\obj\Debug\SmoothSound.exe
+M:\CS3\SmoothSound\SmoothSound\obj\Debug\SmoothSound.pdb

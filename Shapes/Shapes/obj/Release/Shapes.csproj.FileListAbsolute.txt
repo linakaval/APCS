@@ -1,0 +1,28 @@
+C:\School\Materials 10-11\apcs\Projects\Shapes\Shapes\obj\Release\ResolveAssemblyReference.cache
+C:\School\Materials 10-11\apcs\Projects\Shapes\Shapes\obj\Release\Shapes.Form1.resources
+C:\School\Materials 10-11\apcs\Projects\Shapes\Shapes\obj\Release\Shapes.Properties.Resources.resources
+C:\School\Materials 10-11\apcs\Projects\Shapes\Shapes\obj\Release\Shapes.csproj.GenerateResource.Cache
+C:\School\Materials 10-11\apcs\Projects\Shapes\Shapes\bin\Release\Shapes.exe
+C:\School\Materials 10-11\apcs\Projects\Shapes\Shapes\bin\Release\Shapes.pdb
+C:\School\Materials 10-11\apcs\Projects\Shapes\Shapes\obj\Release\Shapes.exe
+C:\School\Materials 10-11\apcs\Projects\Shapes\Shapes\obj\Release\Shapes.pdb
+C:\temp\Shapes\Shapes\obj\Release\Shapes.exe
+C:\temp\Shapes\Shapes\obj\Release\Shapes.pdb
+R:\East Resources\APCS\Shapes\Shapes\obj\Release\Shapes.exe
+R:\East Resources\APCS\Shapes\Shapes\obj\Release\Shapes.pdb
+Z:\Resources\East Resources\APCS\Shapes\Shapes\obj\Release\Shapes.exe
+Z:\Resources\East Resources\APCS\Shapes\Shapes\obj\Release\Shapes.pdb
+H:\Resources\East Resources\APCS\Shapes\Shapes\obj\Release\Shapes.exe
+H:\Resources\East Resources\APCS\Shapes\Shapes\obj\Release\Shapes.pdb
+C:\School\Materials 15-16\apcs\Projects\03 Shapes\Shapes - Student\Shapes\obj\Release\Shapes.exe
+C:\School\Materials 15-16\apcs\Projects\03 Shapes\Shapes - Student\Shapes\obj\Release\Shapes.pdb
+E:\Resources\East Resources\APCS\Shapes\Shapes\obj\Release\Shapes.exe
+E:\Resources\East Resources\APCS\Shapes\Shapes\obj\Release\Shapes.pdb
+M:\CS3\Shapes\Shapes\bin\Release\Shapes.exe
+M:\CS3\Shapes\Shapes\bin\Release\Shapes.pdb
+M:\CS3\Shapes\Shapes\obj\Release\Shapes.csprojResolveAssemblyReference.cache
+M:\CS3\Shapes\Shapes\obj\Release\Shapes.Form1.resources
+M:\CS3\Shapes\Shapes\obj\Release\Shapes.Properties.Resources.resources
+M:\CS3\Shapes\Shapes\obj\Release\Shapes.csproj.GenerateResource.Cache
+M:\CS3\Shapes\Shapes\obj\Release\Shapes.exe
+M:\CS3\Shapes\Shapes\obj\Release\Shapes.pdb

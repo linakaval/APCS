@@ -1,0 +1,9 @@
+M:\CS3\Diver\Diver\obj\Debug\Diver.csprojResolveAssemblyReference.cache
+M:\CS3\Diver\Diver\obj\Debug\Diver.Form1.resources
+M:\CS3\Diver\Diver\obj\Debug\Diver.Properties.Resources.resources
+M:\CS3\Diver\Diver\obj\Debug\Diver.csproj.GenerateResource.Cache
+M:\CS3\Diver\Diver\bin\Debug\Diver.exe.config
+M:\CS3\Diver\Diver\bin\Debug\Diver.exe
+M:\CS3\Diver\Diver\bin\Debug\Diver.pdb
+M:\CS3\Diver\Diver\obj\Debug\Diver.exe
+M:\CS3\Diver\Diver\obj\Debug\Diver.pdb

@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeTester", "TreeTester\TreeTester.csproj", "{20C8070E-20CD-479F-8C80-D505F7E89774}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20C8070E-20CD-479F-8C80-D505F7E89774}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{20C8070E-20CD-479F-8C80-D505F7E89774}.Debug|x86.ActiveCfg = Debug|x86
+		{20C8070E-20CD-479F-8C80-D505F7E89774}.Debug|x86.Build.0 = Debug|x86
+		{20C8070E-20CD-479F-8C80-D505F7E89774}.Release|Any CPU.ActiveCfg = Release|x86
+		{20C8070E-20CD-479F-8C80-D505F7E89774}.Release|x86.ActiveCfg = Release|x86
+		{20C8070E-20CD-479F-8C80-D505F7E89774}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {947A1A00-4BB1-4615-9FE9-E218E5BA91EC}
+	EndGlobalSection
+EndGlobal

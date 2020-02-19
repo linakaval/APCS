@@ -1,0 +1,8 @@
+M:\CS3\Diver\Diver\bin\Release\Diver.exe.config
+M:\CS3\Diver\Diver\bin\Release\Diver.exe
+M:\CS3\Diver\Diver\bin\Release\Diver.pdb
+M:\CS3\Diver\Diver\obj\Release\Diver.Form1.resources
+M:\CS3\Diver\Diver\obj\Release\Diver.Properties.Resources.resources
+M:\CS3\Diver\Diver\obj\Release\Diver.csproj.GenerateResource.Cache
+M:\CS3\Diver\Diver\obj\Release\Diver.exe
+M:\CS3\Diver\Diver\obj\Release\Diver.pdb

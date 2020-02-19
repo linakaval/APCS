@@ -1,0 +1,9 @@
+M:\CS3\StackADT\StackADT\bin\Debug\StackADT.exe.config
+M:\CS3\StackADT\StackADT\bin\Debug\StackADT.exe
+M:\CS3\StackADT\StackADT\bin\Debug\StackADT.pdb
+M:\CS3\StackADT\StackADT\obj\Debug\StackADT.csprojResolveAssemblyReference.cache
+M:\CS3\StackADT\StackADT\obj\Debug\StackADT.Form1.resources
+M:\CS3\StackADT\StackADT\obj\Debug\StackADT.Properties.Resources.resources
+M:\CS3\StackADT\StackADT\obj\Debug\StackADT.csproj.GenerateResource.Cache
+M:\CS3\StackADT\StackADT\obj\Debug\StackADT.exe
+M:\CS3\StackADT\StackADT\obj\Debug\StackADT.pdb

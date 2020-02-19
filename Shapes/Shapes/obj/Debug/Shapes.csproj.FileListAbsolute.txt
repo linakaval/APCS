@@ -1,0 +1,8 @@
+M:\CS3\Shapes\Shapes\bin\Debug\Shapes.exe
+M:\CS3\Shapes\Shapes\bin\Debug\Shapes.pdb
+M:\CS3\Shapes\Shapes\obj\Debug\Shapes.Form1.resources
+M:\CS3\Shapes\Shapes\obj\Debug\Shapes.Properties.Resources.resources
+M:\CS3\Shapes\Shapes\obj\Debug\Shapes.csproj.GenerateResource.Cache
+M:\CS3\Shapes\Shapes\obj\Debug\Shapes.exe
+M:\CS3\Shapes\Shapes\obj\Debug\Shapes.pdb
+M:\CS3\Shapes\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
